@@ -1,0 +1,15 @@
+# All compiled python file
+*.pyc
+
+# All temporary edit file
+*.py~
+*.md~
+*.txt~
+
+# Forget all editors/os temporary files
+*.orig
+*.DS_Store
+*.sublime-workspace
+
+# Local python environment
+python-env
